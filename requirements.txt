@@ -1,0 +1,8 @@
+streamlit
+openai
+python-dotenv
+spacy
+pdfplumber
+python-docx
+scikit-learn
+reportlab
