@@ -18,7 +18,7 @@ from services.llm_analyzer import analyze_clause_with_llm
 from services.report_generator import generate_pdf_report
 
 from database.auth_db import init_db
-from auth import login_ui, register_ui   # ✅ FIXED
+from app.auth import login_ui, register_ui
 
 # ==================================================
 # Streamlit Page Config
